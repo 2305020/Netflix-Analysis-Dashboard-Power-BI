@@ -68,9 +68,3 @@ Contributions are welcome!
 
 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.  
-
----
-
-👉 Just make sure to **add your screenshot file** (e.g., `dashboard.png`) to the repo and update the image path in the README. That way, your GitHub page will show the dashboard preview right under the Overview section.  
-
-Would you like me to also suggest a **set of GitHub topics/tags** (like `powerbi`, `netflix`, `data-visualization`) so your repo is easier to discover?
